@@ -1,5 +1,6 @@
 # Github to SmallHost
 ⚠️ **You need WinSCP installed for this to work!** You can [install WinSCP here](https://winscp.net/download/WinSCP-5.19.4-Setup.exe) (11.3 MB). To ensure Github to SmallHost works, at WinSCP installation install it to all users (not just you). Without WinSCP, Github to SmallHost cannot connect to SmallHost's FTP server to upload the repo.
+![A flowchart](https://raw.githubusercontent.com/SmallHost/Github-to-SmallHost/main/flowchart-ghtosh.png)
 ## How It Works
 ### Download
 1. [Click here for the raw porttosmallhost.bat file.](https://raw.githubusercontent.com/SmallHost/Github-to-SmallHost/main/porttosmallhost.bat)
@@ -17,4 +18,3 @@
 6. The temporary local copy of the repo will then be deleted from your PC.
 ### A Simple Flowchart
 This is the Github to SmallHost broken down into small, easy-to-read chunks.
-![A flowchart](https://github.com/SmallHost/Github-to-SmallHost/blob/main/flowchart-ghtosh.png?raw=true)
