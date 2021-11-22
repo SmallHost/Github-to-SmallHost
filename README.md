@@ -16,5 +16,3 @@
 4. Your computer will temporarilly download and save the repo. It will be deleted from your device after it's uploaded to SmallHost.
 5. After the download, the repo will be uploadeded to SmallHost's FTP server.
 6. The temporary local copy of the repo will then be deleted from your PC.
-### A Simple Flowchart
-This is the Github to SmallHost broken down into small, easy-to-read chunks.
